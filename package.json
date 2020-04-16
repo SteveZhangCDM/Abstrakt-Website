@@ -2,7 +2,7 @@
   "name": "abstract-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://SteveZhangCDM.github.io/Abstrakt-Website",
+  "homepage": "https://stevezhangcdm.github.io/Abstrakt-Website/",
   "dependencies": {
     "@babel/plugin-transform-react-jsx": "^7.9.4",
     "@babel/plugin-transform-react-jsx-self": "^7.9.0",
