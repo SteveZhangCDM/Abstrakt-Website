@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Abstrakt-Website/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Abstrakt-Website/static/js/main.45c524b5.chunk.js",
+    "main.js.map": "/Abstrakt-Website/static/js/main.45c524b5.chunk.js.map",
+    "runtime-main.js": "/Abstrakt-Website/static/js/runtime-main.007edbfb.js",
+    "runtime-main.js.map": "/Abstrakt-Website/static/js/runtime-main.007edbfb.js.map",
+    "static/js/2.b1cd5c2e.chunk.js": "/Abstrakt-Website/static/js/2.b1cd5c2e.chunk.js",
+    "static/js/2.b1cd5c2e.chunk.js.map": "/Abstrakt-Website/static/js/2.b1cd5c2e.chunk.js.map",
+    "index.html": "/Abstrakt-Website/index.html",
+    "precache-manifest.e3064f9fc3e7aee07feb121e539ed6ac.js": "/Abstrakt-Website/precache-manifest.e3064f9fc3e7aee07feb121e539ed6ac.js",
+    "service-worker.js": "/Abstrakt-Website/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Abstrakt-Website/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b1cd5c2e.chunk.js.LICENSE.txt": "/Abstrakt-Website/static/js/2.b1cd5c2e.chunk.js.LICENSE.txt",
+    "static/media/ABSTRAKT_black.png": "/Abstrakt-Website/static/media/ABSTRAKT_black.566a63cb.png",
+    "static/media/banner.jpg": "/Abstrakt-Website/static/media/banner.9f64540b.jpg",
+    "static/media/team_photo.JPG": "/Abstrakt-Website/static/media/team_photo.35ca1db7.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.007edbfb.js",
+    "static/js/2.b1cd5c2e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.45c524b5.chunk.js"
+  ]
+}
