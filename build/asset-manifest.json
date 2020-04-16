@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Abstrakt-Website/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Abstrakt-Website/static/js/main.288f3f0b.chunk.js",
-    "main.js.map": "/Abstrakt-Website/static/js/main.288f3f0b.chunk.js.map",
+    "main.js": "/Abstrakt-Website/static/js/main.45c524b5.chunk.js",
+    "main.js.map": "/Abstrakt-Website/static/js/main.45c524b5.chunk.js.map",
     "runtime-main.js": "/Abstrakt-Website/static/js/runtime-main.007edbfb.js",
     "runtime-main.js.map": "/Abstrakt-Website/static/js/runtime-main.007edbfb.js.map",
     "static/js/2.b1cd5c2e.chunk.js": "/Abstrakt-Website/static/js/2.b1cd5c2e.chunk.js",
     "static/js/2.b1cd5c2e.chunk.js.map": "/Abstrakt-Website/static/js/2.b1cd5c2e.chunk.js.map",
     "index.html": "/Abstrakt-Website/index.html",
-    "precache-manifest.1505ed8ac0bf58643abcec23e3de96bd.js": "/Abstrakt-Website/precache-manifest.1505ed8ac0bf58643abcec23e3de96bd.js",
+    "precache-manifest.e3064f9fc3e7aee07feb121e539ed6ac.js": "/Abstrakt-Website/precache-manifest.e3064f9fc3e7aee07feb121e539ed6ac.js",
     "service-worker.js": "/Abstrakt-Website/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/Abstrakt-Website/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.b1cd5c2e.chunk.js.LICENSE.txt": "/Abstrakt-Website/static/js/2.b1cd5c2e.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.007edbfb.js",
     "static/js/2.b1cd5c2e.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.288f3f0b.chunk.js"
+    "static/js/main.45c524b5.chunk.js"
   ]
 }
